@@ -1,0 +1,44 @@
+[
+    {
+        "id": 2,
+        "nombre": "xxx",
+        "correo": "alexis@gmail.com",
+        "contrase\u00f1a": "18febrero"
+    },
+    {
+        "id": 3,
+        "nombre": "alguilar",
+        "correo": "alexis2@gmail.com",
+        "contrase\u00f1a": "180220"
+    },
+    {
+        "id": 4,
+        "nombre": "erik",
+        "correo": "erik@gmail.com",
+        "contrase\u00f1a": "180220"
+    },
+    {
+        "id": 5,
+        "nombre": "paco",
+        "correo": "paco2@gmail.com",
+        "contrase\u00f1a": "180220"
+    },
+    {
+        "id": 5,
+        "nombre": "ERIK ALFREDO",
+        "correo": "alfredoerik@gmail.com",
+        "contrase\u00f1a": "18defebrero"
+    },
+    {
+        "id": 6,
+        "nombre": "Alejandro",
+        "correo": "Alejandro@gmail.com",
+        "contrase\u00f1a": "180220"
+    },
+    {
+        "id": 7,
+        "nombre": "Oscar",
+        "correo": "oscar@gmail.com",
+        "contrase\u00f1a": "180220"
+    }
+]
